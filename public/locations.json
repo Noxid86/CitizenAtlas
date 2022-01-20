@@ -1,0 +1,37 @@
+{
+    "distances":[
+        { "points":["SPAL-3", "OM-3"], "distance":388 },
+        { "points":["SPAL-3", "OM-4"], "distance":406.4 },            
+        { "points":["SPAL-3", "OM-5"], "distance":542.7 }, 
+
+        { "points":["SPAL-7", "OM-3"], "distance":489.1 }, 
+        { "points":["SPAL-7", "OM-4"], "distance":274.4 },
+        { "points":["SPAL-7", "OM-5"], "distance":364.7 },             
+
+        { "points":["SPAL-9", "OM-3"], "distance":518.4 },
+        { "points":["SPAL-9", "OM-4"], "distance":216.8 },            
+        { "points":["SPAL-9", "OM-5"], "distance":248 }, 
+
+        { "points":["SPAL-12", "OM-3"], "distance":276.4 },
+        { "points":["SPAL-12", "OM-4"], "distance":489.4 },            
+        { "points":["SPAL-12", "OM-5"], "distance":521.3 },
+
+        { "points":["SPAL-16", "OM-3"], "distance":448.7 }, 
+        { "points":["SPAL-16", "OM-4"], "distance":338 }, 
+        { "points":["SPAL-16", "OM-5"], "distance":427.5 },             
+                      
+        { "points":["SPAL-21", "OM-3"], "distance":386 },
+        { "points":["SPAL-21", "OM-4"], "distance":408.7 },            
+        { "points":["SPAL-21", "OM-5"], "distance":412.3 },
+
+        { "points":["SAL-2", "OM-3"], "distance":438 },  
+        { "points":["SAL-2", "OM-4"], "distance":350.2 },                                     
+        { "points":["SAL-2", "OM-5"], "distance":242.8 },  
+
+        { "points":["SAL-5", "OM-3"], "distance":326.6 },  
+        { "points":["SAL-5", "OM-4"], "distance":457.6 },              
+        { "points":["SAL-5", "OM-5"], "distance":306 },                                
+        { "points":["SPAL-3", "OM-2"], "distance":322.8 },
+        { "points":["SPAL-3", "OM-6"], "distance":145 }
+    ]
+}
